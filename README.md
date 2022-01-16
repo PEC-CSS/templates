@@ -1,3 +1,4 @@
+
 # Templates Library
 
 Crafting email templates for the official mailing list
@@ -15,9 +16,9 @@ Keep it static.
 No scripts.
 
 ### Use /media folder
-All images should be in /media folder.
-Name your files in ascending order from 4, enumerating by 1
-Notation : {integer}.{description_1}_{description_2}.png
+All images should be in /media folder.  <br/>
+Name your files in ascending order from 4, enumerating by 1  <br/>
+Notation : {integer}.{description_1}_{description_2}.png  <br/>
 e.g. 4.header_craft.png, 5.footer_left_black.png
 
 ### Strictly PNGs
